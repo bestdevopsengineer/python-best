@@ -11,7 +11,7 @@
 
 # 1.1 Storing customer details as variables
     cid = 'cid-0001' #  a variable is created with name cid and a value is stored as cid-0001 in the variable
-    print('The Customer ID of the first customer is',cid) #to display the value of the variable or a statement
+    print('The Customer ID of the first customer is',cid) # to display the value of the variable or a statement
     The Customer ID of the first customer is cid-0001
 
 # 1.2 Organizing and querying the data
